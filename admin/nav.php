@@ -1,0 +1,1 @@
+<div class="admin-nav"><a href="dashboard.php">Overview</a><a href="tournaments.php">Tournaments</a><a href="registrations.php">Registrations</a><a href="payments.php">Payments</a><a href="scores.php">Scores</a><a href="announcements.php">Announcements</a><a href="logout.php">Log out ↗</a></div>
